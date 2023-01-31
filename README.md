@@ -1,4 +1,4 @@
-A simple printf function built by Adegbite quadri and Adekunle prisca for Alx software Engineering School.
+A simple printf function built by Tolulope Gbenga and Tolulope Oluwatosin for Alx software Engineering School.
 
 #Welcome
 
@@ -58,8 +58,4 @@ Allowed editors: vi, vim, emacs All your files will be compiled on Ubuntu 20.04 
 
 write (man 2 write) malloc (man 3 malloc) free (man 3 free) va_start (man 3 vastart) vaend (man 3 vaend) vacopy (man 3 vacopy) vaarg (man 3 vaarg)
 
-#Authors
 
-Adegbite quadri
-
-Adekunle prisca
